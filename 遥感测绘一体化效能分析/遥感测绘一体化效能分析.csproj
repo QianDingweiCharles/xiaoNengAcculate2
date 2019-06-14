@@ -88,6 +88,7 @@
     <Compile Include="imageAbility.Designer.cs">
       <DependentUpon>imageAbility.cs</DependentUpon>
     </Compile>
+    <Compile Include="normCalculate.cs" />
     <Compile Include="performance.cs">
       <SubType>Form</SubType>
     </Compile>
