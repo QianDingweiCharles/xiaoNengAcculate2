@@ -508,7 +508,7 @@
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(80, 29);
             this.button10.TabIndex = 17;
-            this.button10.Text = "添加";
+            this.button10.Text = "add";
             this.button10.UseVisualStyleBackColor = true;
             // 
             // groupBox2
